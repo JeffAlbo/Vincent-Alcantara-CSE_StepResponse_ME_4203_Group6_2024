@@ -50,7 +50,6 @@ CSE_StepResponse_ME_4203_Group6_2024
 
    Albo, Jeff Leonard C.
 
-
    ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/4d73a594-4a48-4750-b4ac-c6469061f37d)
    ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/3d3f14bd-affb-4e4a-af87-67b33de9aff3)
    ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/161361767/553b98ce-5913-47e1-a92f-2091d7f879ee)
